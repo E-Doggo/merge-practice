@@ -1,3 +1,4 @@
 practicar conflicto de merge
 se cambio por la linea de prueba de rama2
+se modifico en main
 linea de la rama1
